@@ -8,7 +8,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/dc0d/caseconv v0.5.0 // indirect
 	github.com/ddkwork/golibrary v0.0.0-20240728131742-3497a6ed9010 // indirect
-	github.com/ebitengine/purego v0.7.1 // indirect
+	github.com/ebitengine/purego v0.8.0-alpha.3.0.20240717153933-b9dbbd0c9d2c // indirect
 	github.com/fatih/color v1.17.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -16,7 +16,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/pkg/term v1.2.0-beta.2 // indirect
 	github.com/richardwilkes/json v0.3.0 // indirect
-	github.com/richardwilkes/toolbox v1.99.0 // indirect
+	github.com/richardwilkes/toolbox v1.114.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/yuin/goldmark v1.7.4 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
