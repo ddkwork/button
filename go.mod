@@ -7,7 +7,7 @@ require github.com/ddkwork/unison v0.0.0-20240804034401-8fdf52775ad3
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/dc0d/caseconv v0.5.0 // indirect
-	github.com/ddkwork/golibrary v0.0.0-20240728131742-3497a6ed9010 // indirect
+	github.com/ddkwork/golibrary v0.0.0-20240807032548-2d6a9a212679 // indirect
 	github.com/ebitengine/purego v0.8.0-alpha.3.0.20240717153933-b9dbbd0c9d2c // indirect
 	github.com/fatih/color v1.17.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
